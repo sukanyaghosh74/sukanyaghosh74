@@ -1,13 +1,12 @@
 ### Hi there, I'm **Sukanya Ghosh**! 👋✨
 
-I am a **passionate ethical hacker, full-stack developer, AI enthusiast, and artist** 🎨💻. I love building futuristic AI assistants, working on cybersecurity projects, and optimizing life with tech.
+I am a **full-stack developer, AI enthusiast, and artist** 🎨💻. I love building futuristic AI assistants, working on innovative projects, and optimizing life with tech.
 
 ---
 
 ### 🚀 About Me
-- 🔥 **Cybersecurity Expert & Penetration Tester**
 - 🤖 **AI-Powered Task Automation Enthusiast**
-- 🖥️ **React Native Developer @ Flixdin**
+- 🖥️ **React Native Developer Intern @ Flixdin**
 - 🎯 **Hackathon Winner & Problem Solver**
 - 🎨 **Artist & Designer**
 - 🛠️ **Currently Working On:** AI-Powered Space Station Cargo Management System 🚀
@@ -29,36 +28,44 @@ I am a **passionate ethical hacker, full-stack developer, AI enthusiast, and art
 ### 📊 **GitHub Stats**
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sukanyaghosh&show_icons=true&theme=radical" alt="GitHub Stats" width="49%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sukanyaghosh&theme=radical" alt="GitHub Streak" width="49%">
+<img src="https://github-readme-stats.vercel.app/api?username=sukanyaghosh74&show_icons=true&theme=radical" alt="GitHub Stats" width="49%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sukanyaghosh74&theme=radical" alt="GitHub Streak" width="49%">
 </p>
 
 ---
 
 ### 📈 **Top Languages**
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sukanyaghosh&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sukanyaghosh74&layout=compact&theme=radical)
 
 ---
 
 ### 🏆 **GitHub Trophies**
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=sukanyaghosh&theme=darkhub&column=4)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=sukanyaghosh74&theme=darkhub&column=4)
+
+---
+
+### 📊 **Detailed GitHub Stats**
+### 📂 **My Favourite Repositories**
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sukanyaghosh74&repo=cifar10-classification&theme=radical)](https://github.com/sukanyaghosh74/cifar10-classification)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sukanyaghosh74&repo=6502-emulator&theme=radical)](https://github.com/sukanyaghosh74/6502-emulator)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sukanyaghosh74&repo=real-time-collab&theme=radical)](https://github.com/sukanyaghosh74/real-time-collab)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sukanyaghosh74&repo=movie-booking-system&theme=radical)](https://github.com/sukanyaghosh74/movie-booking-system)
 
 ---
 
 ### 🎮 **Fun Fact**
 ```bash
-> I don't just hack; I also create things that make life easier! 🚀
+> I tend to forget what I was about to...wait, what was I saying? 
 ```
 
 ---
 
 ### 📫 **Find Me Here**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/YOUR-USERNAME/)
-[![Twitter](https://img.shields.io/badge/Twitter-Profile-blue?style=for-the-badge&logo=twitter)](https://twitter.com/YOUR-USERNAME)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/sukanyaghosh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sukanya-ghosh-706129274/)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/sukanyaghosh74)
 
 ---
 
@@ -67,4 +74,4 @@ If you like my work, feel free to support me by ⭐ starring my repositories!
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=sukanyaghosh&color=blue&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=sukanyaghosh74&color=blue&style=flat-square)
