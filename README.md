@@ -6,7 +6,6 @@ I am a **full-stack developer, AI enthusiast, and artist** 🎨💻. I love buil
 
 ### 🚀 About Me
 - 🤖 **AI-Powered Task Automation Enthusiast**
-- 🖥️ **React Native Developer Intern @ Flixdin**
 - 🎯 **Hackathon Winner & Problem Solver**
 - 🎨 **Artist & Designer**
 - 🛠️ **Currently Working On:** AI-Powered Space Station Cargo Management System 🚀
