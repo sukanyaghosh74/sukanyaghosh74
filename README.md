@@ -1,6 +1,6 @@
 ### Hi there, I'm **Sukanya Ghosh**! 👋✨
 
-I am a **full-stack developer, AI enthusiast, and artist** 🎨💻. I love building futuristic AI assistants, working on innovative projects, and optimizing life with tech.
+I am a **software developer, AI enthusiast, and artist** 🎨💻. I love building futuristic AI assistants, working on innovative projects, and optimizing life with tech.
 
 ---
 
