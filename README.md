@@ -6,9 +6,9 @@ I am a **software developer, AI enthusiast, and artist** 🎨💻. I love buildi
 
 ### 🚀 About Me
 - 🤖 **AI-Powered Task Automation Enthusiast**
-- 🎯 **Hackathon Winner & Problem Solver**
+- 🎯 **2X Hackathon Winner & Problem Solver**
 - 🎨 **Artist & Designer**
-- 🛠️ **Currently Working On:** AI-Powered Space Station Cargo Management System 🚀
+- 🛠️ **Currently Working On:** Another useless AI wrapper 🚀
 
 ---
 
