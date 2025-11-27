@@ -1,12 +1,12 @@
-### Hi there, I'm **Sukanya Ghosh**! 👋✨
+### Hi there, I'm **Sukanya**! 👋✨
 
-I am a **software developer, AI enthusiast, and artist** 🎨💻. I love building futuristic AI assistants, working on innovative projects, and optimizing life with tech.
+I am a **software developer, finance enthusiast, and artist** 🎨💻. I love building stuff
 
 ---
 
 ### 🚀 About Me
 - 🤖 **AI-Powered Task Automation Enthusiast**
-- 🎯 **2X Hackathon Winner & Problem Solver**
+- 🎯 **4X Hackathon Winner & Problem Solver**
 - 🎨 **Artist & Designer**
 - 🛠️ **Currently Working On:** Another useless AI wrapper 🚀
 
@@ -65,6 +65,7 @@ I am a **software developer, AI enthusiast, and artist** 🎨💻. I love buildi
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sukanya-ghosh-706129274/)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/sukanyaghosh74)
+[![X](https://img.shields.io/badge/X-Profile-black?style=for-the-badge&logo=X)](https://x.com/__sukanya__g)
 
 ---
 
