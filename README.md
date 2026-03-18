@@ -20,9 +20,9 @@
 ### About Me
 
 * Building **AI-powered automation systems**
-* 4× Hackathon Winner — focused on execution, not ideas
+* 6× Hackathon Winner — focused on execution, not ideas
 * Strong bias toward **systems, scale, and efficiency**
-* Currently working on: *another AI wrapper that probably shouldn’t exist*
+* Currently working on: *another useless AI wrapper*
 
 ---
 
